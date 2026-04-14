@@ -59,7 +59,7 @@ export const properties: Property[] = [
       "Luminoso",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-01.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -98,7 +98,7 @@ export const properties: Property[] = [
       "Zona tranquila",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-02.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -138,7 +138,7 @@ export const properties: Property[] = [
       "Terraza",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-03.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -178,7 +178,7 @@ export const properties: Property[] = [
       "Cocina completa",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-04.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -217,7 +217,7 @@ export const properties: Property[] = [
       "Zona comercial",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-05.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -257,7 +257,7 @@ export const properties: Property[] = [
       "Cochera",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-06.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -297,7 +297,7 @@ export const properties: Property[] = [
       "Jardín amplio",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-07.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -338,7 +338,7 @@ export const properties: Property[] = [
       "Placard",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-08.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -377,7 +377,7 @@ export const properties: Property[] = [
       "Calle tranquila",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-09.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
@@ -414,7 +414,7 @@ export const properties: Property[] = [
       "Zona comercial",
     ],
     images: [
-      "/placeholder-property.webp",
+      "/property-10.webp",
       "/placeholder-property.webp",
       "/placeholder-property.webp",
     ],
