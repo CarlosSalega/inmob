@@ -16,8 +16,20 @@ export default function Hero() {
   if (neighborhood !== "Todos") searchParams.set("neighborhood", neighborhood);
 
   return (
-    <section className="relative bg-gradient-to-br from-inmob-primary via-inmob-primary-dark to-inmob-primary overflow-hidden">
-      {/* Decorative elements */}
+    <section className="relative overflow-hidden">
+      {/* Hero background image */}
+      <div className="absolute inset-0">
+        <img
+          src="/hero.webp"
+          alt="InmoBel - Tu inmobiliaria de confianza en Buenos Aires"
+          className="w-full h-full object-cover"
+          loading="eager"
+        />
+        {/* Dark overlay for readability */}
+        <div className="absolute inset-0 bg-gradient-to-br from-inmob-primary/90 via-inmob-primary-dark/85 to-inmob-primary/90" />
+      </div>
+
+      {/* Decorative accents */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute top-20 left-10 w-72 h-72 bg-inmob-accent rounded-full blur-3xl" />
         <div className="absolute bottom-10 right-20 w-96 h-96 bg-white rounded-full blur-3xl" />
